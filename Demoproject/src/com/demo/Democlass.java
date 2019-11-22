@@ -6,6 +6,7 @@ public class Democlass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("HI viji welcome to githubconnection");
+		System.out.println("hi");
 
 	}
 
